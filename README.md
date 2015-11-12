@@ -5,6 +5,10 @@ Check out the slides:
 
 https://rawgit.com/talonendm/R_talonendm/gh-pages/index.html#1
 
+https://rawgit.com/talonendm/R_talonendm/gh-pages/index.html
+
+[https://rawgit.com/talonendm/R_talonendm/gh-pages/index.html]
+
 
 something to test
 ---- 
