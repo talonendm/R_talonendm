@@ -32,6 +32,11 @@ Video backgrounds:
 
 http://lab.hakim.se/reveal-js/#/10/3
 
+------
+
+151112
+experiments done at dropbox, full paths not working, something else to be done for navigation bar. However, I guess currently I don't even need it..
+
 
 
 
