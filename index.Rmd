@@ -11,11 +11,7 @@ revealjs:
 url: {lib: "."}
 bootstrap:
   theme: amelia
-navbar:
-  title: talonendm
-  items: 
-    - {item: Home, href: 'http://jaakko.me/index',  icon: home}
-    - {item: Publications, href: 'http://users.ics.aalto.fi/talonen/index', icon: pencil}
+
 ---
 
 # R Stuff
