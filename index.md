@@ -1,7 +1,7 @@
 ---
 title: R stuff
 author: Jaakko Talonen
-mode : selfcontained
+mode : standalone
 framework: revealjs
 hitheme : zenburn
 revealjs:
@@ -50,11 +50,29 @@ Press side or up to navigate.
 Embed videos from your favorite online video service or with an HTML5 video element
 
 <iframe width="400" height="225" frameborder="0"
-  src="https://www.youtube.com/watch?v=gIAbyWhI7kQ" >
+  src="//www.youtube.com/watch?v=gIAbyWhI7kQ" >
 </iframe>
+
+---
+
+## Video Embeds - test2
+
+<iframe width="420" 
+height="315" src="//www.youtube.com/embed/I95GOmLc7TA" 
+frameborder="0" allowfullscreen></iframe>
 
 
 ---
+
+## Video Embeds - test2 with http
+
+<iframe width="420" 
+height="315" src="http://www.youtube.com/embed/I95GOmLc7TA" 
+frameborder="0" allowfullscreen></iframe>
+
+
+---
+
 
 ## Slidify
 
@@ -64,3 +82,6 @@ code [revealjs]
 Slide template (http://lab.hakim.se/zoom-js) [zoom.js]
 
 many thanks!
+
+
+
