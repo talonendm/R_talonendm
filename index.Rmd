@@ -57,7 +57,7 @@ frameborder="0" allowfullscreen></iframe>
 ## Video Embeds - test2 with http
 
 <iframe width="420" 
-height="315" src="https://www.youtube.com/watch?v=F3FJnnZyxYQ" 
+height="315" src="http://www.youtube.com/watch?v=F3FJnnZyxYQ" 
 frameborder="0" allowfullscreen></iframe>
 
 
