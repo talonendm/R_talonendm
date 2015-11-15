@@ -1,14 +1,13 @@
 ---
 title: R stuff
 author: Jaakko Talonen
-mode : standalone
+mode : selfcontained
 framework: revealjs
 hitheme : zenburn
 revealjs:
   theme: solarized
   transition: cube
   center: "true"
-url: {lib: "."}
 bootstrap:
   theme: amelia
 
@@ -43,22 +42,13 @@ get down! <a href="#" class="navigate-down">down</a>
 
 Press side or up to navigate.
 
----
-
-## Video Embeds - test
-
-Embed videos from your favorite online video service or with an HTML5 video element
-
-<iframe width="400" height="225" frameborder="0"
-  src="//www.youtube.com/watch?v=gIAbyWhI7kQ" >
-</iframe>
 
 ---
 
 ## Video Embeds - test2
 
 <iframe width="420" 
-height="315" src="//www.youtube.com/embed/I95GOmLc7TA" 
+height="315" src="//www.youtube.com/watch?v=F3FJnnZyxYQ" 
 frameborder="0" allowfullscreen></iframe>
 
 
@@ -67,7 +57,7 @@ frameborder="0" allowfullscreen></iframe>
 ## Video Embeds - test2 with http
 
 <iframe width="420" 
-height="315" src="http://www.youtube.com/embed/I95GOmLc7TA" 
+height="315" src="https://www.youtube.com/watch?v=F3FJnnZyxYQ" 
 frameborder="0" allowfullscreen></iframe>
 
 
